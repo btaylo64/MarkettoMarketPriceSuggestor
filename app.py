@@ -109,4 +109,3 @@ if st.button("Submit Interest to Sales Rep"):
 
     st.success("Thanks! A sales rep will be in touch. Model updated.")
 
-cd path/to/your/project
