@@ -7,8 +7,6 @@ Original file is located at
     https://colab.research.google.com/drive/10Lfj_13JeZbxeRufeiciO0XyWAuqmuiZ
 """
 
-pip install streamlit xgboost pandas scikit-learn
-
 import streamlit as st
 import pandas as pd
 from sklearn.preprocessing import StandardScaler, OneHotEncoder
